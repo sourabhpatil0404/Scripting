@@ -1,6 +1,6 @@
 # Scripting
 <br>
-Text scripting using python.
+Text scripting using Python.
 <br>
 All attachments are in Repo. 
 <br>
